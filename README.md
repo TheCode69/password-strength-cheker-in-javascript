@@ -1,1 +1,1 @@
-# password-strength-cheker-in-javascript
+ # password-strength-cheker-in-javascript
